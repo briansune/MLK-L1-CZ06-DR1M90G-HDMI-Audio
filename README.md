@@ -10,6 +10,14 @@ Due to the Anlogic TD compiler is so bad on handling systemverilog.
 
 This repository intended to make a workable HDMI audio output.
 
+Remember to use a long FM antenna to receive the radio channel.
+
+The background noise might be large due to the atan and the CIC of the Anlogic IP is not that great.
+
+# Hardware Setup
+
+![{8F8698D6-0987-4185-958C-D7324F0C6F1F}](https://github.com/user-attachments/assets/76bc980c-d422-47af-98bc-6b9ae9efba7e)
+
 ## Verilog Tree
 
 ![{860EDC87-58F2-4559-B65A-D17F29490266}](https://github.com/user-attachments/assets/bbbad7f8-2889-4602-afb2-b6e62cd324e1)
